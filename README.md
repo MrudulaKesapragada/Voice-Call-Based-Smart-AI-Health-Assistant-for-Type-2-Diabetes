@@ -22,3 +22,10 @@ APIs: Google Speech Recognition, Deep-Translator, gTTS.
 Backend: pip install -r requirements.txt python app.py
 
 Frontend: cd frontend && npm install npm start
+
+Output Screens:
+<img width="1252" height="860" alt="image" src="https://github.com/user-attachments/assets/1192c741-28b9-4ad8-bfb4-b4bce6d8ec8c" />
+
+<img width="1237" height="858" alt="image" src="https://github.com/user-attachments/assets/990a7e1c-e5dd-47f2-946e-fbde8304e733" />
+
+
